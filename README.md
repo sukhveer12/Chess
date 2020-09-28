@@ -7,7 +7,7 @@ help beginners play the game (e.g. showing all available moves to the user).
 
 Other ways to customize the game include setting time limits and changing player nicknames.
 
-# Dependencies
+## Dependencies
 This program's GUI is built using Java's Swing library (which comes bundled with the Java SDK).
 
 ## Usage
