@@ -8,7 +8,7 @@ import java.awt.event.KeyEvent;
 
 /**
  * This is the main class for the Chess game (which is the project I chose to undertake for the ICS3U3
- * summative). which rotates on the screen. In this game, two players play against each other on
+ * summative). In this game, two players play against each other on
  * 8x8 board, and the goal of each player is to place the opponent's king
  * in checkmate. There is a tutorial to learn how to play chess within the program
  * (to open this tutorial, press the help button). There are also two levels

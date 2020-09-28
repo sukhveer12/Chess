@@ -5,9 +5,31 @@
       <artifact name="Chess:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a6736ba-4f3b-4e4b-a3f9-f794873c882c" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2a6736ba-4f3b-4e4b-a3f9-f794873c882c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Chess_jar/Chess.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Chess_jar/Chess.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ics3/chess/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ics3/chess/Chess.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +45,6 @@
   <component name="ExportToHTMLSettings">
     <option name="printScope" value="1" />
     <option name="OUTPUT_DIRECTORY" value="S:\ICS3U3\Chess\exportToHTML" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Tri_Pong" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,11 +75,28 @@
       <replace>untransformedMousePressLocation.getY()</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VSMS5tLCukIrMIyGK8UecuFm15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -70,18 +106,6 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ics3.chess" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -102,7 +126,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="Tri_Pong" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -115,7 +139,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -176,6 +200,9 @@
       <option name="presentableId" value="Default" />
       <updated>1490299464827</updated>
       <workItem from="1577242045865" duration="411000" />
+      <workItem from="1580357636992" duration="769000" />
+      <workItem from="1588429844163" duration="70000" />
+      <workItem from="1588430251705" duration="1213000" />
     </task>
     <servers />
   </component>
@@ -189,7 +216,19 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -198,6 +237,24 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1588437083752">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1588437083752" />
+    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1588437083752">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1588437083752" />
+    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1588437083752">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1588437083752" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1588437083752">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1588437083752" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
